@@ -1,1 +1,1 @@
-# [Play](https://saeed-khatami.github.io/voozi/)
+# [Play](https://saeedkhatami.github.io/voozi/)
